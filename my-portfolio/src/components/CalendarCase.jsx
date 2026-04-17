@@ -20,7 +20,10 @@ function CalendarCase() {
         <div className="case-left">
           <h1>2.2</h1>
           <h2>Calendar Management</h2>
-          <p>Scheduled meetings and handled availability.</p>
+          <p>Scheduled meetings, calls, and tasks with clear time blocking and priorities.</p>
+          <p>Managed availability across multiple calendars to avoid conflicts.</p>
+          <p>Coordinated deadlines, reminders, and follow-ups to keep operations on track.</p>
+          <p>Maintained structured scheduling for smooth daily workflows.</p>
         </div>
 
         <div className="case-right">

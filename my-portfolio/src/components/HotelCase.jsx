@@ -17,7 +17,11 @@ function HotelCase() {
         <div className="case-left">
           <h1>2.4</h1>
           <h2>Travel Planning</h2>
-          <p>Compared hotels and optimized decisions.</p>
+          <p>Conducted structured hotel comparisons to support executive travel decisions.</p>
+          <p>Evaluated cost, location, and key amenities based on business priorities.</p>
+          <p>Selected accommodations that aligned with company policies and budget constraints.</p>
+          <p>Managed booking processes and ensured seamless travel experiences for executives.</p>
+          <p>Ensured travel plans align with schedule, budget, and performance needs.</p>
         </div>
 
         <div className="case-right">

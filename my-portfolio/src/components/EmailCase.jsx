@@ -21,8 +21,10 @@ function EmailCase() {
         <div className="case-left">
           <h1>2.1</h1>
           <h2>Email Management</h2>
-          <p>Organized inbox using labels and priorities.</p>
-          <p>Handled replies and follow ups efficiently.</p>
+          <p>Built a structured email system focused on speed, clarity, and reliability.</p>
+          <p>Reduced response time through prioritization and smart labeling.</p>
+          <p>Handled client communication, follow-ups, and task tracking with precision.</p>
+          <p>Ensured every message is answered, organized, and actionable.</p>
         </div>
 
         <div className="case-right">

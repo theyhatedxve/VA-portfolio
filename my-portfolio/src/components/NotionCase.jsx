@@ -20,10 +20,7 @@ function NotionCase() {
         <div className="case-left">
           <h1>2.3</h1>
           <h2>Workflow Systems</h2>
-          <p>Built structured workflow systems using Notion for daily operations.</p>
-          <p>Organized tasks, databases, and processes into clear, scalable systems.</p>
-          <p>Tracked projects, finances, and workflows in one centralized workspace.</p>
-          <p>Improved efficiency by reducing manual work and scattered information.</p>
+          <p>Designed structured workflow systems using Notion to centralize tasks, databases, and operations in one place. Organized projects, processes, and tracking systems to improve efficiency and maintain consistent, scalable workflows.</p>
         </div>
 
         <div className="case-right">

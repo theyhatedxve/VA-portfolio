@@ -20,10 +20,7 @@ function CalendarCase() {
         <div className="case-left">
           <h1>2.2</h1>
           <h2>Calendar Management</h2>
-          <p>Scheduled meetings, calls, and tasks with clear time blocking and priorities.</p>
-          <p>Managed availability across multiple calendars to avoid conflicts.</p>
-          <p>Coordinated deadlines, reminders, and follow-ups to keep operations on track.</p>
-          <p>Maintained structured scheduling for smooth daily workflows.</p>
+          <p>Built a structured scheduling system to manage meetings, deadlines, and availability with clarity and control. Handled scheduling and rescheduling with precision while aligning tasks and priorities to avoid conflicts and delays, ensuring a smooth and organized workflow.</p>
         </div>
 
         <div className="case-right">

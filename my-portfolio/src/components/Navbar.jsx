@@ -4,6 +4,7 @@ function Navbar() {
       <div className="nav-left">Christian Dave Tagadiad</div>
 
       <div className="nav-right">
+        <a href="#hero">Home</a>
         <a href="#email">Email</a>
         <a href="#calendar">Calendar</a>
         <a href="#notion">Systems</a>

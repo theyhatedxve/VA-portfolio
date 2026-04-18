@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <section className="hero">
+    <section id="hero" className="hero">
       <div className="hero-inner">
 
         <h1 className="hero-title">Portfolio.</h1>
